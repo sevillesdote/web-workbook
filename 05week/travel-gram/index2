@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Sevile's travel-gram</title>
+  </head>
+  <body>
+    <header>
+    </header>
+    <main>
+      <div class="top-left">
+      top left
+      </div>
+      <div class="top-right">
+      top right
+      </div>
+      <div class="middle-left">
+      middle-left
+      </div>
+      <div class="middle-center-right">
+      middle-center-right
+      </div>
+      <div class="middle-right">
+      middle-right
+      </div>
+      <div class="middle-bottom">
+      middle-bottom
+      </div>
+      <div class="bottom-left">
+      bottom-left
+      </div>
+      <div class="bottom-center-left">
+      bottom-center-left
+      </div>
+      <div class="bottom-center-right">
+      bottom-center-right
+      </div>
+      <div class="bottom-right">
+      bottom-right
+      </div>
+    </main>
+  </body>
+</html>
